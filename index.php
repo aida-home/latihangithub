@@ -7,10 +7,7 @@
 <body>
     <h1> INDONESIA RAYA </h1>
     <?php
-    echo "Aida Sekar Ningrum";
-    echo "Siti Rukmana";
-    echo "Sistem Informasi";
-    echo "Ani Khairiyah";
+    echo "Sumpah Pemuda";
 ?>
 </body>
 </html>
